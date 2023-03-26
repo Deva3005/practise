@@ -20,3 +20,13 @@
     background-color: green;
     color: white;
 }
+
+#us2 > ul {
+    float: left;
+    list-style-type: none;
+}
+
+#us2 > ul >li {
+    padding: 10px;
+    margin: 10px;
+}
