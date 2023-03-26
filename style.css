@@ -29,8 +29,12 @@
 #us2 > ul >li {
     padding: 10px;
     margin: 10px;
+
 }
 
 p {
     border-radius: 20px;
+    background-color: green;
+    border:20px solid beige;
+    color: white;
 }
