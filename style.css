@@ -29,4 +29,10 @@
 #us2 > ul >li {
     padding: 10px;
     margin: 10px;
+    background-color: green;
+    color: white;
+}
+
+p{
+    border:20px solid beige;
 }
